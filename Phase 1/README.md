@@ -1,0 +1,1 @@
+We have run this on Kaggle website, and it doesn't save data unless it is manually saved. So we don't have Unet and Attention Unet files however they are easy to reproduce. We manually saved residual attention unit and despite it's quite large, if it is necessary we can upload it as well.
