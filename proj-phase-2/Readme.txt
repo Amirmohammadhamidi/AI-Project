@@ -1,0 +1,1 @@
+We couldn't record the video on colab. So we used trained files on another file to create video. We also trained model on HalfCheetah-v4 because v0 was deprecated.
